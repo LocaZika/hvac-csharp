@@ -1,0 +1,9 @@
+root = true
+# Không xuống dòng trước dấu mở ngoặc
+[*.cs]
+csharp_new_line_before_open_brace = none
+
+[*]
+end_of_line = lf
+indent_style = space
+indent_size = 2
